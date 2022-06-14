@@ -1,5 +1,5 @@
 body{
-    background-image: url("/Images/shara desert.jpg");
+    background-image: url("Images/shara desert.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
@@ -105,20 +105,20 @@ li a{
     color: white;
 }
 .box1{
-    background-image: url(/Images/pic-1.png);
+    background-image: url(Images/pic-1.png);
     background-size: 100% 100%;
 
 }
 .box2{
-    background-image: url(/Images/pic-2.png);
+    background-image: url(Images/pic-2.png);
     background-size: 100% 100%;
 }
 .box3{
-    background-image: url(/Images/pic-3.png);
+    background-image: url(Images/pic-3.png);
     background-size: 100% 100%;
 }
 .box4{
-    background-image: url(/Images/pic-4.png);
+    background-image: url(Images/pic-4.png);
     background-size: 100% 100%;
 }
 
@@ -137,7 +137,7 @@ li a{
 /* ================== For screen size less then 992  =========================== */
 @media only screen and (max-width: 992px) {
     body{
-    background-image: url("/Images/shara desert.jpg");
+    background-image: url("Images/shara desert.jpg");
     background-attachment: fixed;
     background-position: center;
 }
@@ -240,20 +240,20 @@ li a{
     color: white;
 }
 .box1{
-    background-image: url(/Images/pic-1.png);
+    background-image: url(Images/pic-1.png);
     background-size: 100% 140%;
 
 }
 .box2{
-    background-image: url(/Images/pic-2.png);
+    background-image: url(Images/pic-2.png);
     background-size: 100% 140%;
 }
 .box3{
-    background-image: url(/Images/pic-3.png);
+    background-image: url(Images/pic-3.png);
     background-size: 100% 140%;
 }
 .box4{
-    background-image: url(/Images/pic-4.png);
+    background-image: url(Images/pic-4.png);
     background-size: 100% 140%;
 }
 }
